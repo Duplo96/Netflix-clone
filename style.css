@@ -93,9 +93,3 @@ a:hover {
   transform: translateX(-50px);
   transition: opacity 1.5s ease, transform 1.5s ease;
 }
-footer {
-  width: 10000px;
-  font-size: 100pt;
-  height: 10000px;
-  color: purple;
-}
