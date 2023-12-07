@@ -37,9 +37,7 @@ body {
   image-rendering: auto;
   max-width: 100%;
 }
-/* li a:hover {
-  color: white;
-} */
+
 .carousel-inner img:hover,
 .carousel-inner img:focus {
   z-index: 2;
@@ -92,4 +90,18 @@ a:hover {
   opacity: 0;
   transform: translateX(-50px);
   transition: opacity 1.5s ease, transform 1.5s ease;
+}
+.shadow-bottom {
+  background-image: linear-gradient(180deg, transparent, #141414);
+  z-index: 1;
+  height: 7.4rem;
+  width: 100%;
+  border: none;
+}
+.shadow-top {
+  background-image: linear-gradient(0deg, transparent, #141414);
+  z-index: 1;
+  height: 7.4rem;
+  width: 100%;
+  border: none;
 }
