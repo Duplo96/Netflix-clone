@@ -76,13 +76,6 @@ body {
   z-index: 3;
   width: 25%;
 }
-p {
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  width: 25%;
-}
 a:hover {
   color: white !important;
 }
@@ -111,4 +104,7 @@ a:hover {
 }
 footer {
   margin-top: 200px;
+}
+.cursor {
+  cursor: pointer;
 }
