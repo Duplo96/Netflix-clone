@@ -37,6 +37,7 @@ function checkScroll() {
   const carousels = document.querySelectorAll(".carousel");
 
   carousels.forEach((carousel) => {
+    // torna info sull'elemento
     const rect = carousel.getBoundingClientRect();
     const windowHeight =
       window.innerHeight || document.documentElement.clientHeight;
