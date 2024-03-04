@@ -77,5 +77,6 @@ This project is licensed under the [MIT License](LICENSE).
 - Built with gratitude using Bootstrap and Ionicons for their invaluable resources.
 
 ---
+** Open my site https://duplo96.github.io/Netflix-clone/
 
 For any inquiries or issues, please contact titone1996@gmail.com. Thank you for your interest in the Netflix Clone project! 🎬✨
